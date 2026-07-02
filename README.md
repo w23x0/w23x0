@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,cs&theme=dark" />
+
 
 </div>
 
