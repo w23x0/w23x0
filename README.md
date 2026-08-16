@@ -1,15 +1,11 @@
 <div align="center">
-
-<img src="1.gif" width="150"/>
-
+  
 ### hey, i'm w23x 👋
+
 
 </div>
 
 <div align="center">
-
-**[📓 Obsidian Vault — all notes](https://github.com/w23x0/obsidian)**
-
 
 </div>
 
